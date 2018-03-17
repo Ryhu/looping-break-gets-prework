@@ -5,7 +5,7 @@ def levitation_quiz
 	if (answer != "Wingardium Leviosa")
 	  levitation_quiz()
 	else
-	  
+	  puts "You passed the quiz!"
 	end
 end
 
